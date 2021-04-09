@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">In App Review API</string>
+    <string name="alert_msg">Note:- Make sure your app already live on the play store, otherwise you will not able to open the rate app review dialog.</string>
+</resources>
